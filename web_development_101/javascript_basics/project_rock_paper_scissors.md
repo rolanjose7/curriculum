@@ -1986,4 +1986,5 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [dinbusan's Solution](https://github.com/dinbusan/rps)
 - [Lucija's' Solution](https://github.com/India12/Rock-Paper-Scissors) - [View in Browser](https://india12.github.io/Rock-Paper-Scissors/)
 - [Daniel_Ozdogan's Solution](https://github.com/Daniel88Hus/ProjectRockPaperScissors/blob/master/game.html)
+[Rolanjose7's Solution](https://github.com/rolanjose7/rockpaperscissors) - [View in Browser](https://rolanjose7.github.io/rockpaperscissors/)
 </details>
